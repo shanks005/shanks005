@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shanks005](github.com/shanks005)
 
-- 💬 Ask me about **Power Electronics,Analog Electronics,DSA**
-
 - 📫 How to reach me **ashwins1507@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fFkbArh1iP1BGMgW-RXv3D6JhMuUIGfy/view?usp=sharing](https://drive.google.com/file/d/1fFkbArh1iP1BGMgW-RXv3D6JhMuUIGfy/view?usp=sharing)
