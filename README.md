@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Phantom Sense and Exploring the Scope of AI in Power Electronics](https://www.linkedin.com/company/phantomsense/posts/?feedView=all)
 
-- 🌱 I’m currently learning **Deep Learning,Algorithms,Pulse Width Modulation Simulations in MATLAB,Docker,Competitive Programming,VLSI**
+- 🌱 I’m currently learning **Deep Learning,Algorithms,Pulse Width Modulation Simulations in MATLAB**
 
 - 👯 I’m looking to collaborate on **Power Electronics,Analog Design,Signal Processing**
 
