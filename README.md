@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ashwins1507@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fFkbArh1iP1BGMgW-RXv3D6JhMuUIGfy/view?usp=sharing](https://drive.google.com/file/d/1fFkbArh1iP1BGMgW-RXv3D6JhMuUIGfy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
