@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Phantom Sense and Exploring the Scope of AI in Power Electronics](https://openhorizonrobotics.com/projects/)
 
-- 🌱 I’m currently learning **Deep Learning,Algorithms,Pulse Width Modulation Simulations in MATLAB**
+- 🌱 I’m currently learning **Deep Learning,Algorithms for Data Structures,Digital Control of Power Electronics**
 
 - 👯 I’m looking to collaborate on **Power Electronics,Analog Design,Signal Processing**
 
