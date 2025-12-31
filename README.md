@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Scope of AI in Power Electronics**
 
-- 👨‍💻 All of my projects are available at [github.com/shanks005](github.com/shanks005)
+- 👨‍💻 All of my projects are available at [(https://github.com/shanks005?tab=repositories)]
 
 - 📫 How to reach me **ashwins1507@gmail.com**
 
