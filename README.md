@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanks005&label=Profile%20views&color=0e75b6&style=flat" alt="shanks005" /> </p>
 
-- 🔭 I’m currently working on [Phantom Sense and Exploring the Scope of AI in Power Electronics](https://www.linkedin.com/company/phantomsense/posts/?feedView=all)
+- 🔭 I’m currently working on [Phantom Sense and Exploring the Scope of AI in Power Electronics](https://openhorizonrobotics.com/projects/)
 
 - 🌱 I’m currently learning **Deep Learning,Algorithms,Pulse Width Modulation Simulations in MATLAB**
 
