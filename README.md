@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Shankar</h1>
-<h3 align="center">Electrical Engineering Undergraduate at Manipal Institute of Technology,Manipal,Squash Player and a curious learner</h3>
+<h3 align="center">Electrical Engineering Undergraduate at Manipal Institute of Technology,Squash Player and a curious learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanks005&label=Profile%20views&color=0e75b6&style=flat" alt="shanks005" /> </p>
 
